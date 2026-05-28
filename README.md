@@ -25,5 +25,8 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 # Result
+Thus, the program to analyse given data using co-efficient of correlation and regression line has been done
+successfully
 
 # Output 
+<img width="798" height="620" alt="{30BF5AA5-E663-4E84-8122-23BD6EF4115C}" src="https://github.com/user-attachments/assets/a35e0e74-c830-4dba-a3bf-4f2b1331455c" />
